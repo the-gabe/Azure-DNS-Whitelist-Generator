@@ -6,6 +6,10 @@ The expectation (and only real scenario where there is a point in using this scr
 
 With this whitelist, you will be able to ensure that all your Private DNS Zones used by Private Links and Azure resources you have created with platform provided subdomains are resolvable by default, as you can just import the produced file into a DNS Domain List resource. As of writing you will need to split the list across 2 DNS domain lists, as there is a limit of 100 domains per DNS Domain List resource.
 
+# Update 06/02/2025
+
+This repository will be overhauled significantly to create an interactive GUI where you can interactively choose domains which are needed for your use case. Expect activity here and things to break quickly and often. No backsies.
+
 # Not in scope of this script but you may wish to add this...
 
 Beware: Allowing the usage of the Graph API in your environment opens up a [well known](https://x.com/vxunderground/status/1429867158075498506) and commonly used [C2](https://github.com/boku7/azureOutlookC2) data exfiltration vector, known to be used by [state sponsored](https://www.elastic.co/security-labs/siestagraph-new-implant-uncovered-in-asean-member-foreign-ministry) [threat actors](https://www.elastic.co/security-labs/update-to-the-REF2924-intrusion-set-and-related-campaigns). Looking right at you North Korea :)
