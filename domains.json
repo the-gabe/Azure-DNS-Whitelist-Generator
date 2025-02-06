@@ -1,4 +1,8 @@
 {
+    "mcr-msedge.net.": {
+        "Purpose": "Microsoft Container Registry CDN",
+        "Source": "Anecdotal packet capture"
+    },
     "azureml.ms.": {
         "Purpose": "Azure Machine Learning",
         "Source": "https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns"
