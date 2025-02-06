@@ -1,4 +1,8 @@
 {
+    "fb-t-msedge.net": {
+        "Purpose": "Microsoft Linux Packages CDN",
+        "Source": "Anecdotal packet capture"
+    },
     "mcr-msedge.net.": {
         "Purpose": "Microsoft Container Registry CDN",
         "Source": "Anecdotal packet capture"
