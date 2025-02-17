@@ -1,0 +1,431 @@
+{
+    "office.com.": {
+        "Purpose": "Feature Flags for Azure services",
+        "Source": "Anecdotal packet capture"
+    },
+    "mscr.io.": {
+        "Purpose": "Microsoft Container Registry CDN",
+        "Source": "Anecdotal packet capture"
+    },
+    "fb-t-msedge.net": {
+        "Purpose": "Microsoft Linux Packages CDN",
+        "Source": "Anecdotal packet capture"
+    },
+    "mcr-msedge.net.": {
+        "Purpose": "Microsoft Container Registry CDN",
+        "Source": "Anecdotal packet capture"
+    },
+    "azureml.ms.": {
+        "Purpose": "Azure Machine Learning",
+        "Source": "https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns"
+    },
+    "azure.net.": {
+        "Purpose": "Generic Domain used across many Azure Cloud resources",
+        "Source": "https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns"
+    },
+    "aznbcontent.net.": {
+        "Purpose": "Azure Machine Learning",
+        "Source": "https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns"
+    },
+    "azure.com.": {
+        "Purpose": "Generic Domain used across many Azure Cloud resources",
+        "Source": "https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns"
+    },
+    "botframework.com.": {
+        "Purpose": "Azure Bot Service",
+        "Source": "https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns"
+    },
+    "windows.net.": {
+        "Purpose": "Generic Domain used across many Azure Cloud resources",
+        "Source": "https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns"
+    },
+    "azurehdinsight.net.": {
+        "Purpose": "Azure HDInsight",
+        "Source": "https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns"
+    },
+    "microsoft.com.": {
+        "Purpose": "Generic Domain used across many Azure Cloud resources",
+        "Source": "https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns"
+    },
+    "azuredatabricks.net.": {
+        "Purpose": "Azure Databricks",
+        "Source": "https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns"
+    },
+    "azmk8s.io.": {
+        "Purpose": "Azure Kubernetes Service",
+        "Source": "https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns"
+    },
+    "azurecontainerapps.io.": {
+        "Purpose": "Azure Container Apps",
+        "Source": "https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns"
+    },
+    "azurecr.io.": {
+        "Purpose": "Azure Container Registry",
+        "Source": "https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns"
+    },
+    "azure-api.net.": {
+        "Purpose": "Azure API Management",
+        "Source": "https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns"
+    },
+    "azurehealthcareapis.com.": {
+        "Purpose": "Azure Health Data Services",
+        "Source": "https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns"
+    },
+    "azure-devices.net.": {
+        "Purpose": "Azure IoT Hub",
+        "Source": "https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns"
+    },
+    "azure-devices-provisioning.net.": {
+        "Purpose": "Azure IoT Hub Device Provisioning Service",
+        "Source": "https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns"
+    },
+    "azureiotcentral.com.": {
+        "Purpose": "Azure IoT Central",
+        "Source": "https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns"
+    },
+    "azure-automation.net.": {
+        "Purpose": "Azure Automation",
+        "Source": "https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns"
+    },
+    "windowsazure.com.": {
+        "Purpose": "Generic Domain used across many Azure Cloud resources",
+        "Source": "https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns"
+    },
+    "azconfig.io.": {
+        "Purpose": "Azure App Configuration",
+        "Source": "https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns"
+    },
+    "signalr.net.": {
+        "Purpose": "SignalR",
+        "Source": "https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns"
+    },
+    "azurestaticapps.net.": {
+        "Purpose": "Azure Static Web Apps",
+        "Source": "https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns"
+    },
+    "azurewebsites.net.": {
+        "Purpose": "Azure Web Apps",
+        "Source": "https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns"
+    },
+    "arm-msedge.net.": {
+        "Purpose": "Azure CDN",
+        "Source": "UNKNOWN"
+    },
+    "arm-dc-msedge.net.": {
+        "Purpose": "Azure CDN",
+        "Source": "UNKNOWN"
+    },
+    "cloudapp.net.": {
+        "Purpose": "Generic Domain used across many Azure Cloud resources",
+        "Source": "UNKNOWN"
+    },
+    "microsoftmetrics.com.": {
+        "Purpose": "Metrics and health monitoring",
+        "Source": "https://learn.microsoft.com/en-us/azure/api-management/virtual-network-reference?tabs=stv2#metrics-and-health-monitoring"
+    },
+    "azureedge.net.": {
+        "Purpose": "Azure CDN from Edgio",
+        "Source": "https://learn.microsoft.com/en-us/azure/cdn/edgio-retirement-faq"
+    },
+    "visualstudio.com.": {
+        "Purpose": "Used for many Azure DevOps services",
+        "Source": "https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/linux-agent?view=azure-devops#im-running-a-firewall-and-my-code-is-in-azure-repos-what-urls-does-the-agent-need-to-communicate-with"
+    },
+    "vsassets.io.": {
+        "Purpose": "Azure DevOps Agents - Azure Artifacts via CDN",
+        "Source": "https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/linux-agent?view=azure-devops#im-running-a-firewall-and-my-code-is-in-azure-repos-what-urls-does-the-agent-need-to-communicate-with"
+    },
+    "azurefd.net.": {
+        "Purpose": "Azure Front Door",
+        "Source": "https://learn.microsoft.com/en-us/azure/frontdoor/endpoint"
+    },
+    "a-msedge.net.": {
+        "Purpose": "Azure Front Door",
+        "Source": "Run an nslookup on a domain matching *.azurefd.net"
+    },
+    "b-msedge.net.": {
+        "Purpose": "Azure Front Door",
+        "Source": "Run an nslookup on a domain matching *.azurefd.net"
+    },
+    "c-msedge.net.": {
+        "Purpose": "Azure Front Door",
+        "Source": "Run an nslookup on a domain matching *.azurefd.net"
+    },
+    "d-msedge.net.": {
+        "Purpose": "Azure Front Door",
+        "Source": "Run an nslookup on a domain matching *.azurefd.net"
+    },
+    "e-msedge.net.": {
+        "Purpose": "Azure Front Door",
+        "Source": "Run an nslookup on a domain matching *.azurefd.net"
+    },
+    "f-msedge.net.": {
+        "Purpose": "Azure Front Door",
+        "Source": "Run an nslookup on a domain matching *.azurefd.net"
+    },
+    "g-msedge.net.": {
+        "Purpose": "Azure Front Door",
+        "Source": "Run an nslookup on a domain matching *.azurefd.net"
+    },
+    "h-msedge.net.": {
+        "Purpose": "Azure Front Door",
+        "Source": "Run an nslookup on a domain matching *.azurefd.net"
+    },
+    "i-msedge.net.": {
+        "Purpose": "Azure Front Door",
+        "Source": "Run an nslookup on a domain matching *.azurefd.net"
+    },
+    "j-msedge.net.": {
+        "Purpose": "Azure Front Door",
+        "Source": "Run an nslookup on a domain matching *.azurefd.net"
+    },
+    "k-msedge.net.": {
+        "Purpose": "Azure Front Door",
+        "Source": "Run an nslookup on a domain matching *.azurefd.net"
+    },
+    "l-msedge.net.": {
+        "Purpose": "Azure Front Door",
+        "Source": "Run an nslookup on a domain matching *.azurefd.net"
+    },
+    "m-msedge.net.": {
+        "Purpose": "Azure Front Door",
+        "Source": "Run an nslookup on a domain matching *.azurefd.net"
+    },
+    "n-msedge.net.": {
+        "Purpose": "Azure Front Door",
+        "Source": "Run an nslookup on a domain matching *.azurefd.net"
+    },
+    "o-msedge.net.": {
+        "Purpose": "Azure Front Door",
+        "Source": "Run an nslookup on a domain matching *.azurefd.net"
+    },
+    "p-msedge.net.": {
+        "Purpose": "Azure Front Door",
+        "Source": "Run an nslookup on a domain matching *.azurefd.net"
+    },
+    "q-msedge.net.": {
+        "Purpose": "Azure Front Door",
+        "Source": "Run an nslookup on a domain matching *.azurefd.net"
+    },
+    "r-msedge.net.": {
+        "Purpose": "Azure Front Door",
+        "Source": "Run an nslookup on a domain matching *.azurefd.net"
+    },
+    "s-msedge.net.": {
+        "Purpose": "Azure Front Door",
+        "Source": "Run an nslookup on a domain matching *.azurefd.net"
+    },
+    "t-msedge.net.": {
+        "Purpose": "Azure Front Door",
+        "Source": "Run an nslookup on a domain matching *.azurefd.net"
+    },
+    "u-msedge.net.": {
+        "Purpose": "Azure Front Door",
+        "Source": "Run an nslookup on a domain matching *.azurefd.net"
+    },
+    "v-msedge.net.": {
+        "Purpose": "Azure Front Door",
+        "Source": "Run an nslookup on a domain matching *.azurefd.net"
+    },
+    "w-msedge.net.": {
+        "Purpose": "Azure Front Door",
+        "Source": "Run an nslookup on a domain matching *.azurefd.net"
+    },
+    "x-msedge.net.": {
+        "Purpose": "Azure Front Door",
+        "Source": "Run an nslookup on a domain matching *.azurefd.net"
+    },
+    "y-msedge.net.": {
+        "Purpose": "Azure Front Door",
+        "Source": "Run an nslookup on a domain matching *.azurefd.net"
+    },
+    "z-msedge.net.": {
+        "Purpose": "Azure Front Door",
+        "Source": "Run an nslookup on a domain matching *.azurefd.net"
+    },
+    "trafficmanager.net.": {
+        "Purpose": "Azure Traffic Manager",
+        "Source": "https://learn.microsoft.com/en-us/azure/app-service/configure-domain-traffic-manager"
+    },
+    "msidentity.com.": {
+        "Purpose": "Used for many Azure Services",
+        "Source": "Run an nslookup on graph.microsoft.com"
+    },
+    "microsoftonline.com.": {
+        "Purpose": "Entra ID MSAL Authority URL",
+        "Source": "https://learn.microsoft.com/en-us/entra/identity-platform/authentication-national-cloud"
+    },
+    "live.com.": {
+        "Purpose": "Entra ID MSAL Authority URL for consumer Microsoft accounts",
+        "Source": "UNKNOWN"
+    },
+    "time.windows.com.": {
+        "Purpose": "Windows Time Servers, used by Azure Virtual Network Gateway",
+        "Source": "Anecdotal packet capture"
+    },
+    "windowsupdate.com.": {
+        "Purpose": "Windows Update Servers, used by Azure Virtual Network Gateway",
+        "Source": "Anecdotal packet capture"
+    },
+    "skype.com.": {
+        "Purpose": "Feature flag servers, used by Azure Virtual Network Gateway",
+        "Source": "https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns"
+    },
+    "powershellgallery.com": {
+        "Purpose": "PowerShell Gallery",
+        "Source": "https://learn.microsoft.com/en-gb/powershell/"
+    },
+    "edgesuite.net.": {
+        "Purpose": "Akamai CDN, used by many Azure services",
+        "Source": "https://community.akamai.com/customers/s/article/Public-Suffix-List-Update"
+    },
+    "edgekey.net.": {
+        "Purpose": "Akamai CDN, used by many Azure services",
+        "Source": "https://community.akamai.com/customers/s/article/Public-Suffix-List-Update"
+    },
+    "akamai.net.": {
+        "Purpose": "Akamai CDN, used by many Azure services",
+        "Source": "https://community.akamai.com/customers/s/article/Public-Suffix-List-Update"
+    },
+    "akamaiedge.net.": {
+        "Purpose": "Akamai CDN, used by many Azure services",
+        "Source": "https://community.akamai.com/customers/s/article/Public-Suffix-List-Update"
+    },
+    "akadns.net.": {
+        "Purpose": "Akamai DNS, used by many Azure services",
+        "Source": "https://techdocs.akamai.com/gtm/docs/traffic-mgmt-domains"
+    },
+    "cqloud.com.": {
+        "Purpose": "Qwilt CDN, used for Windows Update",
+        "Source": "UNKNOWN"
+    },
+    "ame.gbl.": {
+        "Purpose": "Commonly used invalid CRL hostname by many incompetent CAs",
+        "Source": "https://technotes.seastrom.com/2024/07/31/how-big-are-crls.html"
+    },
+    "digicert.com.": {
+        "Purpose": "Used for many CRLs at Digicert and Microsoft CAs",
+        "Source": "https://learn.microsoft.com/en-us/azure/security/fundamentals/azure-ca-details?tabs=root-and-subordinate-cas-list"
+    },
+    "geotrust.com.": {
+        "Purpose": "Used for many CRLs at Digicert and Microsoft CAs",
+        "Source": "https://learn.microsoft.com/en-us/azure/security/fundamentals/azure-ca-details?tabs=root-and-subordinate-cas-list"
+    },
+    "godaddy.com.": {
+        "Purpose": "Used for CRLs for Azure App Service Certificates",
+        "Source": "https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-app-service-certificate?tabs=portal#frequently-asked-questions"
+    },
+    "cloudfront.net.": {
+        "Purpose": "AWS CloudFront, used by many services",
+        "Source": "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/GettingStarted.SimpleDistribution.html"
+    },
+    "fastlydns.net.": {
+        "Purpose": "Fastly DNS, used by many services",
+        "Source": "UNKNOWN"
+    },
+    "fastly.net.": {
+        "Purpose": "Fastly CDN, used by many service",
+        "Source": "UNKNOWN"
+    },
+    "canonical.com.": {
+        "Purpose": "Generic Domain used across many Ubuntu services",
+        "Source": "UNKNOWN"
+    },
+    "ubuntu.com.": {
+        "Purpose": "Generic Domain used across many Ubuntu services",
+        "Source": "UNKNOWN"
+    },
+    "snapcraft.io.": {
+        "Purpose": "Generic Domain used across many Ubuntu services",
+        "Source": "UNKNOWN"
+    },
+    "internal.": {
+        "Purpose": "ICANN reserved TLD for cloud networks",
+        "Source": "UNKNOWN"
+    },
+    "arpa.": {
+        "Purpose": "ICANN reserved TLD for reverse DNS",
+        "Source": "UNKNOWN"
+    },
+    "example.com.": {
+        "Purpose": "ICANN reserved example domain, used by Ubuntu for DNS checks",
+        "Source": "UNKNOWN"
+    },
+    "facebook.com.": {
+        "Purpose": "Facebook, used for Graph API",
+        "Source": "https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns"
+    },
+    "debian.org.": {
+        "Purpose": "Needed for apt repo usage in Azure App Service",
+        "Source": "https://debian.org"
+    },
+    "elastic.co.": {
+        "Purpose": "Elasticsearch update servers",
+        "Source": "https://elastic.co"
+    },
+    "maven.search-guard.com.": {
+        "Purpose": "Search Guard update servers",
+        "Source": "https://search-guard.com/"
+    },
+    "cloudsink.net.": {
+        "Purpose": "CrowdStrike",
+        "Source": "UNKNOWN"
+    },
+    "neo4j.com.": {
+        "Purpose": "Neo4J",
+        "Source": "https://neo4j.com"
+    },
+    "hashicorp.com.": {
+        "Purpose": "Terraform downloads",
+        "Source": "https://hashicorp.com"
+    },
+    "docker.com.": {
+        "Purpose": "Docker Engine downloads",
+        "Source": "https://docker.com"
+    },
+    "google.com.": {
+        "Purpose": "Google",
+        "Source": "https://google.com"
+    },
+    "quad9.net.": {
+        "Purpose": "Quad9 DNS server",
+        "Source": "https://quad9.net"
+    },
+    "lencr.org": {
+        "Purpose": "Let's Encrypt CRLs",
+        "Source": "https://letsencrypt.org"
+    },
+    "msftconnecttest.com.": {
+        "Purpose": "Azure VPN Gateway, Microsoft Connection Tests",
+        "Source": "Anecdotal packet capture"
+    },
+    "passport.net.": {
+        "Purpose": "Azure VPN Gateway, Microsoft Connection Tests",
+        "Source": "Anecdotal packet capture"
+    },
+    "msftncsi.com.": {
+        "Purpose": "Azure VPN Gateway, Microsoft Connection Tests",
+        "Source": "Anecdotal packet capture"
+    },
+    "per-context.": {
+        "Purpose": "Quirk of Microsoft PlayWright/Chrome",
+        "Source": "https://github.com/microsoft/playwright/blob/11e1b8f30a2c7418b20255390136ddd3bf5373e5/packages/playwright-core/src/server/fetch.ts#L177"
+    },
+    "terraform.io.": {
+        "Purpose": "Terraform Registry",
+        "Source": "https://terraform.io"
+    },
+    "github.com.": {
+        "Purpose": "GitHub",
+        "Source": "https://github.com"
+    },
+    "githubusercontent.com.": {
+        "Purpose": "GitHub UGC",
+        "Source": "https://github.com"
+    },
+    "letsencrypt.org.": {
+        "Purpose": "Let's Encrypt",
+        "Source": "letsencrypt.org"
+    },
+    ".invalid": "This is just here to make git merges nicer as this will not have a comma"
+}
